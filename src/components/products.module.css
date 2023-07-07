@@ -1,0 +1,12 @@
+.main{
+   padding:30px; 
+ margin:auto;
+ box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+border-radius: 20px;
+}
+.main>img{
+    width:200px
+}
+span{
+    font-weight:500;
+}
